@@ -1,1 +1,1 @@
-console.log('file config.js versioni 1')
+console.log('file config.js versioni 3')
